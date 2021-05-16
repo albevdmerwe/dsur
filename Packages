@@ -1,0 +1,13 @@
+Package: multilocus
+Version: 1.0.0
+Architecture: amd64
+Essential: no
+Maintainer: Albe van der Merwe
+Filename: ./multilocus_1.0.0_amd64.deb
+Size: 419744
+MD5sum: b7479d39bc914a537b3685b1d15ce430
+SHA1: 68abf10fab8ef92eada80d29b5ac70d3afa18a14
+SHA256: 8625e1458ce772319ae4da07f395a88f50621977999bde59456829bbea260f9c
+Priority: optional
+Description: Analysis of multi-locus population genetic data.
+
