@@ -16,8 +16,7 @@ sudo apt update
 
 | Name	       | Version	| Reference	| URL		| Description |
 | ---	       | ---		| ---	      	| ---	      	| ---	      |
-| multilocus   | 1.0.0		| [^1]		| [GitHub]([I'm an inline-style link](https://www.google.com) | Analysis of multi-locus population genetic data. |
-| ---	       | ---		| ---		| ---	      |
+| multilocus   | 1.0.0		| [^1]		| [GitHub](https://github.com/agapow/multilocus) | Analysis of multi-locus population genetic data. |
 
 
 [^1]: Agapow & Burt (2001) Indices of multilocus linkage disequilibrium. _Mol. Ecol. Notes_ 1:101-102.
