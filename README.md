@@ -8,6 +8,6 @@ This repository is built using an amd64 machine, so the software will not work o
 
 ```
 curl -s --compressed "https://albevdmerwe.github.io/my_ppa/KEY.gpg" | sudo apt-key add -
-sudo echo "deb https://albevdmerwe.github.io/dsur ./" > /etc/apt/sources.list.d/dsur.list
+sudo curl -s --compressed -o /etc/apt/sources.list.d/dsur.list "https://albevdmerwe.github.io/dsur/dsur.list"
 sudo apt update
 ```
