@@ -11,3 +11,13 @@ curl -s --compressed "https://albevdmerwe.github.io/my_ppa/KEY.gpg" | sudo apt-k
 sudo curl -s --compressed -o /etc/apt/sources.list.d/dsur.list "https://albevdmerwe.github.io/dsur/dsur.list"
 sudo apt update
 ```
+
+## Software in this repository
+
+| Name	       | Version	| Reference	| Description |
+| ---	       | ---		| ---	      	| ---	      |
+| multilocus   | 1.0.0		| [^1]		| Analysis of multi-locus population genetic data. |
+| ---	       | ---		| ---		| ---	      |
+
+
+[^1}: Agapow & Burt (2001) Indices of multilocus linkage disequilibrium. _Mol. Ecol. Notes_ 1:101-102.
