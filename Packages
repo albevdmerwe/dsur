@@ -1,13 +1,45 @@
-Package: multilocus
-Version: 1.0.0
+Package: metaeuk
+Version: 4-1
 Architecture: amd64
 Essential: no
-Maintainer: Albe van der Merwe
-Filename: ./multilocus_1.0.0_amd64.deb
-Size: 419744
-MD5sum: b7479d39bc914a537b3685b1d15ce430
-SHA1: 68abf10fab8ef92eada80d29b5ac70d3afa18a14
-SHA256: 8625e1458ce772319ae4da07f395a88f50621977999bde59456829bbea260f9c
+Maintainer: N.A. van der Merwe <albe.vdmerwe@gmail.com>
+Filename: ./dsur-metaeuk_4-1_amd64.deb
+Size: 1755904
+MD5sum: 79eaadc35d491614b3ca87a9e16ee585
+SHA1: 31bd81b8b53b348cb61435e7ac3735e3856c532c
+SHA256: 13d39b466ef2f07b9a8113f6fc6e8c885acbd86c71871bec58d8b266281e655a
+Section: science
 Priority: optional
-Description: Analysis of multi-locus population genetic data.
+Homepage: https://github.com/soedinglab/metaeuk
+Description: Sensitive, high-throughput gene discovery and annotation for large-scale eukaryotic metagenomics.
+
+Package: multilocus
+Version: 1.3b1-1
+Architecture: amd64
+Essential: no
+Maintainer: N.A. van der Merwe <albe.vdmerwe@gmail.com>
+Filename: ./dsur-multilocus_1.3b1-1_amd64.deb
+Size: 1105600
+MD5sum: d97e10501e7d8016453ffde07d450818
+SHA1: ee3a6646cd1801ce061e5bbd408321fb39997aed
+SHA256: 5e64fb9ca511771b8ede52728018f6ffcfb5b676e82c4330ddeb5c44e43dc135
+Section: science
+Priority: optional
+Homepage: https://github.com/albevdmerwe/multilocus
+Description: Analysis of multilocus population data.
+
+Package: prodigal
+Version: 2.6.3-1
+Architecture: amd64
+Essential: no
+Maintainer: N.A. van der Merwe <albe.vdmerwe@gmail.com>
+Filename: ./dsur-prodigal_v2.6.3_amd64.deb
+Size: 679736
+MD5sum: c1a28617f75a768e180924cd9a910ab6
+SHA1: 96560e49a3694f79769077f4fca7385b6e3af46b
+SHA256: c35c5a0c9a3b5e57d9c8c1388237ee7f802e90f562203ee9d472b3e2d901e89f
+Section: science
+Priority: optional
+Homepage: https://github.com/hyattpd/Prodigal
+Description: Prodigal gene prediction software for prokaryotic genomes.
 
