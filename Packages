@@ -1,20 +1,3 @@
-Package: dsur-busco
-Version: 5.1.3-2
-Architecture: amd64
-Essential: no
-Maintainer: N.A. van der Merwe <albe.vdmerwe@gmail.com>
-Depends: python3-biopython, python3-pandas, ncbi-blast+, augustus, dsur-metaeuk, prodigal, hmmer, sepp, r-base
-Filename: ./dsur-busco_5.3.1_amd64.deb
-Size: 125468
-MD5sum: 6f789f6b3b6831789a8d51d1ac6f6fc2
-SHA1: d3dcf25f0c79ccac533d22c2d906027eef427647
-SHA256: 75112e3def060ee46fcf125056b68f5faf3c8e22cabb3d5bef6a452f3d2317b6
-Section: science
-Priority: optional
-Homepage: https://busco.ezlab.org/
-Description: Assessing genome assembly and annotation completeness with Benchmarking Universal Single-Copy Orthologs
-Date: Sun, 27 06 2021 10:00:00 -0200
-
 Package: dsur-metaeuk
 Version: 4-2
 Architecture: amd64
