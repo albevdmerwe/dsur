@@ -1,14 +1,14 @@
 Package: dsur-busco
-Version: 5.1.3-1
+Version: 5.1.3-2
 Architecture: amd64
 Essential: no
 Maintainer: N.A. van der Merwe <albe.vdmerwe@gmail.com>
 Depends: python3-biopython, python3-pandas, ncbi-blast+, augustus, dsur-metaeuk, prodigal, hmmer, sepp, r-base
 Filename: ./dsur-busco_5.3.1_amd64.deb
-Size: 125424
-MD5sum: 5b18638f339c38aee18751689940a82c
-SHA1: adce8e6b35ffa1a647177a61485a878d3ef9c00e
-SHA256: 5f15f51af9a191e7dd04c74fe2be69764071c1267d992e68b623efa2a815d30b
+Size: 125468
+MD5sum: 6f789f6b3b6831789a8d51d1ac6f6fc2
+SHA1: d3dcf25f0c79ccac533d22c2d906027eef427647
+SHA256: 75112e3def060ee46fcf125056b68f5faf3c8e22cabb3d5bef6a452f3d2317b6
 Section: science
 Priority: optional
 Homepage: https://busco.ezlab.org/
@@ -22,9 +22,9 @@ Essential: no
 Maintainer: N.A. van der Merwe <albe.vdmerwe@gmail.com>
 Filename: ./dsur-metaeuk_4-1_amd64.deb
 Size: 1754868
-MD5sum: 2365e0985ba167c9a7f28e5a5621fc0e
-SHA1: 11980397a4477d95252e9c7f6e50324e0ee94f70
-SHA256: 1ab8b0b6ba31fccdc59b6a7b3b5d330a52fe7664f5c6491c5a04e44da7f9e9cf
+MD5sum: e19719ecf26fa4ac6c74c024377507e9
+SHA1: fcec80800ab79854120a0a793b131ca899910728
+SHA256: 7d7c0fe15675cc7a71a449f9150789271c87be0158d4197d5fc48c4db9f0ac92
 Section: science
 Priority: optional
 Homepage: https://github.com/soedinglab/metaeuk
@@ -38,9 +38,9 @@ Essential: no
 Maintainer: N.A. van der Merwe <albe.vdmerwe@gmail.com>
 Filename: ./dsur-multilocus_1.3b1-1_amd64.deb
 Size: 1104640
-MD5sum: 6a2d8950df77edd58b6931615a0d2042
-SHA1: cb120f8fe8dfd8bc96727dea9b8b44b055d8273d
-SHA256: f0afa4c96be77026e6728f6f671021224848528e93dbfded110e549e85adc472
+MD5sum: 6ea5aeee8c487022bfcb203bde47454f
+SHA1: e6b389a4fd81ca3308aec1bc930f980d31b0bd16
+SHA256: 80e15a03641794357d52c461066e98d7b6b555f861069e2e0d64fa241ea9f2a5
 Section: science
 Priority: optional
 Homepage: https://github.com/albevdmerwe/multilocus
