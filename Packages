@@ -1,0 +1,16 @@
+Package: metaeuk-git
+Version: 20220511
+Architecture: amd64
+Essential: no
+Maintainer: N.A. van der Merwe <albe.vdmerwe@gmail.com>
+Filename: ./metaeuk_git_amd64.deb
+Size: 4096700
+MD5sum: 21c5c95862bcd47fd022ebd27fdd2602
+SHA1: 008a0a8fae52a0a4993e24124889f6e612aed1bb
+SHA256: dd7ef3b8ff8b2de50e2400e281a21c422941804b2882be2d2cf0e9eae3b60e29
+Section: science
+Priority: optional
+Homepage: https://github.com/soedinglab/metaeuk
+Description: Sensitive, high-throughput gene discovery and annotation for large-scale eukaryotic metagenomics.
+Date: Date: Sat, 26 06 2021 10:00:00 -0200
+
