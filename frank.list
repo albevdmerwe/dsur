@@ -1,1 +1,1 @@
-deb https://albevdmerwe.github.io/frank ./
+deb [arch=amd64 signed-by=/usr/share/keyrings/frank-archive-keyring.gpg] https://albevdmerwe.github.io/frank ./
