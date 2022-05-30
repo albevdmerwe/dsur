@@ -11,7 +11,8 @@ I do not accept responsibility for any of the software in this respository, and 
 ## How to add this repository to your Debian Stable machine
 
 ```
-curl -s --compressed "https://albevdmerwe.github.io/frank/KEY.gpg" | sudo apt-key add -
+wget -O- https://albevdmerwe.github.io/frank/KEY.gpg | gpg --dearmor | sudo tee /usr/share/keyrings/frank-archive-keyring.gpg
 sudo curl -s --compressed -o /etc/apt/sources.list.d/frank.list "https://albevdmerwe.github.io/frank/frank.list"
 sudo apt update
+
 ```
